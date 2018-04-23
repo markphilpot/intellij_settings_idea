@@ -10,14 +10,4 @@
     </extensionMap>
     <setting name="fileTypeChangedCounter" value="5" />
   </component>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern=".astylerc" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern=".travis.yml" type="PLAIN_TEXT" />
-      <mapping ext="gql" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
 </application>
